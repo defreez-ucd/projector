@@ -1,13 +1,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "func2vec",
+      "tensorName": "func2vec snd*",
       "tensorShape": [
         3244,
         300
       ],
-      "tensorPath": "https://raw.githubusercontent.com/defreez-ucd/projector/master/head.vectors",
-      "metadataPath": "https://raw.githubusercontent.com/defreez-ucd/projector/master/head.meta"
+      "tensorPath": "https://raw.githubusercontent.com/defreez-ucd/projector/master/snd.vectors",
+      "metadataPath": "https://raw.githubusercontent.com/defreez-ucd/projector/master/snd.meta"
     }
   ]
 }
