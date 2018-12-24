@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "func2vec",
+      "tensorShape": [
+        99,
+        300
+      ],
+      "tensorPath": "https://github.com/defreez-ucd/projector/blob/master/head.vectors?raw=true",
+      "metadataPath": "https://raw.githubusercontent.com/defreez-ucd/projector/master/head.meta"
+    }
+  ]
+}
