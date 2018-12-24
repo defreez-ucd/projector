@@ -3,7 +3,7 @@
     {
       "tensorName": "func2vec",
       "tensorShape": [
-        99,
+        3244,
         300
       ],
       "tensorPath": "https://raw.githubusercontent.com/defreez-ucd/projector/master/head.vectors",
