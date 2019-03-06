@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "mpi func2vec",
+      "tensorShape": [
+        2700,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/defreez-ucd/projector/master/mpi.vectors",
+      "metadataPath": "https://raw.githubusercontent.com/defreez-ucd/projector/master/mpi.meta"
+    }
+  ]
+}
